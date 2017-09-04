@@ -1,0 +1,14 @@
+{
+    "name": "tiansishengshui/demo_g",
+    "description": "this is a demo",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "申南风",
+            "email": "ygajq2009@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
